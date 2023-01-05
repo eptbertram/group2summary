@@ -1,3 +1,5 @@
+use CRM_Group2summary_ExtensionUtil as E;
+
 <div id='groups'>
   <div class='crm-summary-row groups'>
     <div class='crm-label'>E::ts(Groups)</div>
